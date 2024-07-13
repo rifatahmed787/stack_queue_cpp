@@ -1,0 +1,1 @@
+{"name":"Local: valid_parentheses","url":"c:\\phitron_c++\\stack_queue\\valid_parentheses.cpp","tests":[{"id":1720849208394,"input":"3\n(){}[]\n({[()]})\n([)]","output":"True\nTrue\nFalse"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron_c++\\stack_queue\\valid_parentheses.cpp","group":"local","local":true}
